@@ -1,9 +1,9 @@
 # Power-system-state-estimation-using-the-gradient-descent-optimization
-## 🔌 Power System State Estimation – 2-Bus Model
+## Power System State Estimation – 2-Bus Model
 
 This project implements a simplified **state estimation** method for a power system with **two buses**. The goal is to estimate the system state using real and reactive power flow measurements.
 
-### 🧠 System Overview
+### System Overview
 The **system state** consists of three unknowns:
 - `V1`: Voltage magnitude at Bus 1  
 - `V2`: Voltage magnitude at Bus 2  
